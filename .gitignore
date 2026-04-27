@@ -1,0 +1,22 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+*.iml
+*.iws
+.idea/
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Firebase
+google-services.json
+
+# Keystore
+*.jks
+*.keystore
